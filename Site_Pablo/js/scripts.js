@@ -178,7 +178,7 @@ $( document ).ready(function() {
     }
 
     $([document.documentElement, document.body]).animate({
-        scrollTop: $(scrollTo).offset().top - 120
+        scrollTop: $(scrollTo).offset().top - 180
     }, 1500);
   });
 
