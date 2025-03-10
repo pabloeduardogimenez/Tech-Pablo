@@ -18,7 +18,7 @@ p, li {
 
 /* Barra de navegação */
 header, .navbar {
-  background-color: #353D41;
+  background-color: black
 }
 
 #nav-container {
@@ -29,6 +29,8 @@ header, .navbar {
 #logo {
   width: 75px;
 }
+
+
 
 .navbar-brand {
   padding: 0;
